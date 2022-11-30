@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\DesafioSistemaHospedagem.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\DesafioSistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\DesafioSistemaHospedagem.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\DesafioSistemaHospedagem.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\DesafioSistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\bin\Debug\net6.0\DesafioSistemaHospedagem.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\bin\Debug\net6.0\DesafioSistemaHospedagem.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\bin\Debug\net6.0\DesafioSistemaHospedagem.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\bin\Debug\net6.0\DesafioSistemaHospedagem.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\bin\Debug\net6.0\DesafioSistemaHospedagem.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\DesafioSistemaHospedagem.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\refint\DesafioSistemaHospedagem.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\DesafioSistemaHospedagem.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\DesafioSistemaHospedagem.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaHospedagem\DesafioSistemaHospedagem\obj\Debug\net6.0\ref\DesafioSistemaHospedagem.dll
