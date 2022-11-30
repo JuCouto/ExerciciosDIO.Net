@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\bin\Debug\net6.0\DesafioPOOSistemaCelular.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\bin\Debug\net6.0\DesafioPOOSistemaCelular.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\bin\Debug\net6.0\DesafioPOOSistemaCelular.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\bin\Debug\net6.0\DesafioPOOSistemaCelular.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\bin\Debug\net6.0\DesafioPOOSistemaCelular.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\DesafioPOOSistemaCelular.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\DesafioPOOSistemaCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\DesafioPOOSistemaCelular.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\DesafioPOOSistemaCelular.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\DesafioPOOSistemaCelular.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\DesafioPOOSistemaCelular.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\refint\DesafioPOOSistemaCelular.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\DesafioPOOSistemaCelular.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\DesafioPOOSistemaCelular.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioPOOSistemaCelular\DesafioPOOSistemaCelular\obj\Debug\net6.0\ref\DesafioPOOSistemaCelular.dll
